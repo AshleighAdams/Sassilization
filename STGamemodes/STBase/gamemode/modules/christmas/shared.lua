@@ -1,0 +1,1 @@
+---------------------- STBase-- By Spacetech--------------------STGamemodes.Christmas = {}

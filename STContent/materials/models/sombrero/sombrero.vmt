@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sombrero\sombrero"
+	"$model" 1
+	"$envmapmode" 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mrgiggles\sassmodels\lilith\head_phx"
+	"$bumpmap" "models\mrgiggles\sassmodels\lilith\head_norm"
+	"$selfillum" "1"
+
+	//"$lightwarp" "1"
+	//"$lightwarptexture" "models\mrgiggles\sassmodels\lilith\lightwarp"
+}

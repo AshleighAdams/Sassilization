@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture	models\cold\hats\CheeseHat
+	$bumpmap		models\cold\hats\CheeseHat_Normal
+	$surfaceprop	rubber
+}

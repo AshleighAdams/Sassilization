@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\sass_smg\mag"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\sass_smg\mag_ref"
+}

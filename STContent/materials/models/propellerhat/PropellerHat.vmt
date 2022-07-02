@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\propellerhat\propellerhat"
+	"$model" 1
+	"$envmapmode" 1
+}

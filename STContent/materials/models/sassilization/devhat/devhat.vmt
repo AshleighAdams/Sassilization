@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/sassilization/devhat/devhat"
+	"$bumpmap" "models/sassilization/devhat/devhat_normal"
+	"$selfillum" "1"
+}
+

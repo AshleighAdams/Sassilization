@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sam\afro_pick"
+	"$model" 1
+	"$translucent" 1
+}

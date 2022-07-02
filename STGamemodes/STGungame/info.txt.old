@@ -1,0 +1,17 @@
+"Gamemode"
+{
+	"name"		"STGungame"
+	"version"	""
+
+	"author_name"	"Spacetech"
+	"author_email"	"Spacetech326@gmail.com"
+	"author_url"	"www.sassilization.com"
+	
+	"info"		""
+	"hide"		"0"
+	"mappattern"
+	{
+		"1"	"^gungame_"
+		"1"	"^gg_"
+	}
+}

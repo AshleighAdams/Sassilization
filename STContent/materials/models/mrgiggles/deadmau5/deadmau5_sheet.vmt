@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mrgiggles\deadmau5\deadmau5_sheet"
+	"$model" 1
+	"$envmapmode" 1
+}

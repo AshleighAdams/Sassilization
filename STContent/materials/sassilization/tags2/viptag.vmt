@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sassilization/tags2/viptag"
+	"$nolod" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

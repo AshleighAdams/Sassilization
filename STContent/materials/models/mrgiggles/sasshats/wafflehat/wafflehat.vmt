@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/mrgiggles/sasshats/wafflehat/wafflehat"
+	"$bumpmap" "models/mrgiggles/sasshats/wafflehat/wafflehat_norm"
+
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}
+

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mrgiggles\sasshats\deadmau5\deadmau5_sheet_lit"
+	"$selfillum" "1"
+
+	"$detail" "models\mrgiggles\sasshats\deadmau5\deadmau5_sheet_lit_emss"
+	"$detailblendmode" "1"
+	"$detailscale" "1"
+	//"$detailtint" "[0 0 0]"
+}

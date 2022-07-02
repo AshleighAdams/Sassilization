@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mrgiggles\sassmodels\shepard\legs"
+	"$bumpmap" "models\mrgiggles\sassmodels\shepard\legs_norm"
+
+	"$phong" "1"
+	"$phongboost"	"4"
+	"$phongexponent" "12"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

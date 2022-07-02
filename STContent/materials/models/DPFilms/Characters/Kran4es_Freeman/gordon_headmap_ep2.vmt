@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models\DPFilms\Characters\Kran4es_Freeman\facemap_sheet_ep2"
+	"$bumpmap" "models\DPFilms\Characters\Kran4es_Freeman\facemap_sheet_ep2_n"
+
+$phong 1
+$phongboost "0.55"
+$phongexponent 40
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[1 1 5]"
+$nodecal 1
+$ambientocclusion 1
+$PhongAlbedoTint "1"
+
+}

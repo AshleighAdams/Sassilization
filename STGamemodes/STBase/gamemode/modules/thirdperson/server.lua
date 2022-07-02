@@ -1,0 +1,1 @@
+---------------------- STBase-- By Spacetech--------------------function STGamemodes.ThirdPerson:SetEnabled(ply, Bool)	STGamemodes.Store:SetItemInfo(ply, "Misc", "ThirdPersonEnabled", Bool)	STGamemodes.Store:SendCatItem(ply, "Misc", "ThirdPersonEnabled")end

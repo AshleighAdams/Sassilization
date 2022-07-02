@@ -1,0 +1,7 @@
+"deathrun"
+{
+	"base"		"stbase"
+	"title"		"Deathrun"
+	"maps"		"^dr_|^deathrun_"
+	"menusystem"	"1"
+}

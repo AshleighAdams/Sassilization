@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTranslucentTexture
+	"$translucent" 1
+	"$basetexture" "models\DPFilms\Characters\Kran4es_Freeman\hairbits"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$nocull" "1"
+}

@@ -1,0 +1,7 @@
+"climb"
+{
+	"base"		"stbase"
+	"title"		"Climb"
+	"maps"		"^xc_"
+	"menusystem"	"1"
+}

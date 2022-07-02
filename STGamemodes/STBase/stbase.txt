@@ -1,0 +1,7 @@
+"stbase"
+{
+	"base"		"base"
+	"title"		"STBase"
+	"maps"		""
+	"menusystem"	"0"
+}

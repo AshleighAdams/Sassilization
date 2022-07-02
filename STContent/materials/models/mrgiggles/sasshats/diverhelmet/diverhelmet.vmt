@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/mrgiggles/sasshats/diverhelmet/diverhelmet"
+	"$bumpmap" "models/mrgiggles/sasshats/diverhelmet/diverhelmet_norm"
+	"$nocull" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.25 0.25 0.25]"
+	"$normalmapalphaenvmapmask" "1"
+}
+

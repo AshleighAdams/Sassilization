@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\weapons\sass_smg\glass"
+	"$selfillum" "1"
+	"$additive" "1"
+	
+}

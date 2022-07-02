@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"		"models\BMCha\M1Helmet"
+	"$bumpmap"		"models\BMCha\M1HelmetBump"
+}

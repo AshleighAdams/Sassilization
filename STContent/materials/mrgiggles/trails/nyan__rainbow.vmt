@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "mrgiggles/trails/nyan__rainbow.vtf"
+	
+	"$additive" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$selfillum" 1
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 2
+		}
+	}
+}

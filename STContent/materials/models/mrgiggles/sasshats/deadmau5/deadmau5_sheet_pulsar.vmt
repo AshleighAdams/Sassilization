@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mrgiggles\sasshats\deadmau5\deadmau5_sheet_pulsar"
+	"$selfillum" "1"
+}

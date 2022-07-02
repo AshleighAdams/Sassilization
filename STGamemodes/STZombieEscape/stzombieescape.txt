@@ -1,0 +1,7 @@
+"stzombieescape"
+{
+	"base"		"stbase"
+	"title"		"Zombie Escape"
+	"maps"		"^ze_"
+	"menusystem"	"1"
+}

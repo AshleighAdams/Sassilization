@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"				"STContent"
+	"version"			""
+
+	"author_name"		"Spacetech"
+	"author_email"		"Spacetech326@gmail.com"
+	"author_url"		"www.sassilization.com"
+	
+	"info"				""
+	"override"			"0"
+}

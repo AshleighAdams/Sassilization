@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\frog\frogbody"
+        "$bumpmap"     "models\frog\frogbody_n"
+
+        $phong 1
+	$phongexponent 2
+	$phongboost	1
+	$phongfresnelranges	"[-0.05 0.5 1]"
+
+        $rimlight               "1"
+	$rimlightexponent       "2"
+	$rimlightboost          "1"		
+
+}

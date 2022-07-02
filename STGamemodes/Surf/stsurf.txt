@@ -1,0 +1,7 @@
+"stsurf"
+{
+	"base"		"stbase"
+	"title"		"Surf"
+	"maps"		"^surf_"
+	"menusystem"	"1"
+}

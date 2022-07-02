@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\spacesuit\glove_d"
+	"$bumpmap" "models\player\spacesuit\glove_n"
+	"$model" 1
+}
